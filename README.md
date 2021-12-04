@@ -1,5 +1,5 @@
-# Web Scraping Project README.md 
+# Web Scraping Project
 
-Testing 1 2 3
+This repo here is going to contain a few web scraping project I learned, it's not going to be a big project or for any other purposes other than learning
 
-## 3 2 1
+Feel free to check it out :)
